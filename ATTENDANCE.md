@@ -1,3 +1,4 @@
 Trainer: Awaji Onyedikachi Chinedu
 
-Class List:
+Class List:  
+Segun Francis
