@@ -1,3 +1,5 @@
 Trainer: Awaji Onyedikachi Chinedu
 
-Class List:
+Class List: 
+
+Boma Jeremiah
