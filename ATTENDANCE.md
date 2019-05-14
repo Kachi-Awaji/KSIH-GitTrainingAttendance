@@ -1,3 +1,4 @@
 Trainer: Awaji Onyedikachi Chinedu
+Student: Sunday David
 
-Class List:
+Class List: number 1
