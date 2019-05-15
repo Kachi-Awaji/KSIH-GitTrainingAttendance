@@ -2,4 +2,4 @@ Trainer: Awaji Onyedikachi Chinedu
 
 Class List:
 
-Christian K
+Christian K eedee
